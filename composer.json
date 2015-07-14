@@ -2,6 +2,7 @@
     "require": {
         "phpunit/php-token-stream": "*",
         "sebastian/finder-facade": "*",
-        "theseer/fdomdocument": "*"
+        "theseer/fdomdocument": "*",
+        "phpab/phpab":"dev-master"
     }
 }
